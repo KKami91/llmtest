@@ -2,7 +2,6 @@ streamlit-extras
 pypdf
 langchain
 openai
-dotenv
 chromadb
 tiktoken
 sentence-transformers
