@@ -1,8 +1,8 @@
-streamlit-extras
-pypdf
-langchain
-openai
-chromadb
+streamlit-extras==1.32.2
+pypdf==4.1.0
+langchain==0.1.13
+openai==1.16.1
+chromadb==0.4.24
 tiktoken
-sentence-transformers
+sentence-transformers==2.6.1
 pysqlite3-binary
